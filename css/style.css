@@ -241,11 +241,12 @@ background-color:black;
 .newsletter{
 	/*border:1px solid green;*/
 	margin-bottom: 80px;
+	padding-left: 107px;
 
 
 }
 .form_email{
-	width: 70%;
+	width: 66%;
     border: none;
     border-radius: 2px;
     padding: 15px 25px;
